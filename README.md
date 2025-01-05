@@ -2,10 +2,6 @@
   <img src="diagrams/system-design-github-logo.png" width="350" height="200">
 </p>
 
-This repository contains free resources to learn System Design concepts and prepare for interviews.
-
-Join my free [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
-
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
